@@ -1,2 +1,2 @@
 # usando-git-pull
-Haciendo uso de git pull
+REPOSITORIO PARA PRACTICAR GIT PULL
